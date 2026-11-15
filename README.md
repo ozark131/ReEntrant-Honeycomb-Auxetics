@@ -1,6 +1,6 @@
 # reentrant honeycomb shading
 
-Capstone side project: an auxetic overhang for a gallery facade (College Station, TX) using a reentrant honeycomb. One actuator straightens the bow-tie cells, and the whole thing grows along the wall and out from it at the same time (negative Poisson's ratio). Plates on the straight ribs spread apart, so the canopy goes from solid to ~50% open.
+An auxetic overhang for a gallery facade using a reentrant honeycomb. One actuator straightens the bowtie cells, system grows along the wall and out from it at the same time (negative Poisson's ratio). Plates on the straight ribs spread apart to allow 50% canopy opnening.
 
 ![opening](images/opening.gif)
 
