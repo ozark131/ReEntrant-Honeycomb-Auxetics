@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python reentrant_honeycomb.py
 ```
 
-or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` too).
+or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` too)
 
 ## current numbers (default inputs)
 
@@ -29,7 +29,6 @@ or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` to
 - [ ] sun position + shadow on the glass
 - [ ] controller to pick the opening through the day
 - [ ] 3d animation for the boards
-- [ ] racking: real pinned honeycomb can shear sideways, need guide rails or fixed joints
 
 ## ref
 
