@@ -1,6 +1,6 @@
 # reentrant honeycomb shading
 
-Capstone auxetic overhang for gallery facade in College Station, TX. Uses a reentrant honeycomb. One actuator straightens the cells as the whole system grows along the wall and out from it at the same time (negative Poisson's ratio). Plates on the straight ribs spread apart, so the canopy goes from solid to ~50% open.
+Capstone side project: an auxetic overhang for a gallery facade (College Station, TX) using a reentrant honeycomb. One actuator straightens the bow-tie cells, and the whole thing grows along the wall and out from it at the same time (negative Poisson's ratio). Plates on the straight ribs spread apart, so the canopy goes from solid to ~50% open.
 
 ![opening](images/opening.gif)
 
@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python reentrant_honeycomb.py
 ```
 
-or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` too).
+or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` too)
 
 ## current numbers (default inputs)
 
@@ -25,11 +25,10 @@ or open `reentrant_honeycomb.ipynb` in Colab (upload `reentrant_honeycomb.py` to
 
 ## todo
 
-- [ ] model ribs as beams, dead + wind uplift, moments, actuator force
+- [ ] structural model (ribs as beams, dead + wind uplift, moments, actuator force)
 - [ ] sun position + shadow on the glass
 - [ ] controller to pick the opening through the day
 - [ ] 3d animation for the boards
-- [ ] racking
 
 ## ref
 
